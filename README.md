@@ -33,10 +33,10 @@ I'm a passionate developer and student, building my skills across the full web a
 
 | Project | Description |
 |---|---|
-| 🔗 [ProConnect](https://github.com/YOUR_GITHUB_USERNAME/ProConnect) | A professional networking platform to connect people and opportunities |
-| 🏈 [ProScout](https://github.com/YOUR_GITHUB_USERNAME/ProScout) | A scouting tool to discover and evaluate talent |
-| 💰 [Finance-Tracker](https://github.com/YOUR_GITHUB_USERNAME/Finance-tracker) | A personal finance management app to track income and expenses |
-| 🌫️ [AQI India](https://github.com/YOUR_GITHUB_USERNAME/AQi_india) | Air quality index tracker for cities across India |
+| 🔗 [ProConnect](https://github.com/7sam-l/ProConnect) | A professional networking platform to connect people and opportunities |
+| 🏈 [ProScout](https://github.com/7sam-l/ProScout) | A scouting tool to discover and evaluate talent |
+| 💰 [Finance-Tracker](https://github.com/7sam-l/finance-tracker) | A personal finance management app to track income and expenses |
+| 🌫️ [AQI India](https://github.com/7sam-l/aqi-india) | Air quality index tracker for cities across India |
 
 > Feel free to explore all my repositories and star anything you find useful! ⭐
 
