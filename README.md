@@ -37,8 +37,6 @@ All my projects are available right here on GitHub — feel free to explore my r
 
 ## 📊 GitHub Stats
 
-![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=7sam-l&show_icons=true&theme=default&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7sam-l&layout=compact&hide_border=true)
 
 ---
