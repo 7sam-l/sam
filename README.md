@@ -37,7 +37,7 @@ I'm a passionate developer and student, building my skills across the full web a
 | 🏈 [ProScout](https://github.com/7sam-l/ProScout) | A scouting tool to discover and evaluate talent |
 | 💰 [Finance-Tracker](https://github.com/7sam-l/finance-tracker) | A personal finance management app to track income and expenses |
 | 🌫️ [AQI India](https://github.com/7sam-l/aqi-india) | Air quality index tracker for cities across India |
-| 🌫️ [DamnFIT](https://github.com/7sam-l/damn-fit) | Frontend based fitness app |
+| 💪🏿 [DamnFIT](https://github.com/7sam-l/damn-fit) | Frontend based fitness app |
 
 > Feel free to explore all my repositories and star anything you find useful! ⭐
 
